@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/common/hadoop-nfs-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/common/hadoop-common-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/common/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/common/lib" />
+        </SOURCES>
+        <jarDirectory url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/common/lib" recursive="false" />
+        <jarDirectory url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/hdfs/hadoop-hdfs-nfs-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/hdfs/hadoop-hdfs-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/hdfs/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/hdfs/lib" />
+        </SOURCES>
+        <jarDirectory url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/hdfs/lib" recursive="false" />
+        <jarDirectory url="file://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/hdfs/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Download/软件安装包（含MySql安装包）/安装包/hadoop-2.7.2/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
